@@ -18,8 +18,8 @@ const Footer = () => {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: textRef.current,
-        start: "top 80%",
-        end: "top 30%",
+        start: "top 95%",
+        end: "top 60%",
         scrub: true,
       },
     });

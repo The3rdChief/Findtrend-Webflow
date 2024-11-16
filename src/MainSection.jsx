@@ -114,8 +114,8 @@ const MainSection = () => {
           className="max-w-2xl w-11/12 text-3xl sm:text-4xl text-grey300 font-semibold"
         >
           Findtrend helps you to increase your productivity and reduce your
-          computer&#39;s memory load, an application that can <br />
-          fulfill your daily browsing needs.
+          computer&#39;s memory load, an application that can fulfill your daily
+          browsing needs.
         </p>
       </section>
       <section className="py-10 md:py-24 flex flex-col items-center justify-center">
