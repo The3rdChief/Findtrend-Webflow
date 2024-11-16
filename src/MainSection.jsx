@@ -1,8 +1,8 @@
 import "./App.css";
 import GetDeal from "./GetDeal";
 import OpenNewTabs from "./OpenNewTabs";
-import { gsap } from "gsap/gsap-core";
-import { ScrollTrigger } from "gsap/all";
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import SplitType from "split-type";
