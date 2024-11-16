@@ -1,7 +1,7 @@
 import Icon from "./components/Icon";
 import LogoName from "./components/LogoName";
-import { gsap } from "gsap/gsap-core";
-import { ScrollTrigger } from "gsap/all";
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useEffect, useRef } from "react";
 import SplitType from "split-type";
 
