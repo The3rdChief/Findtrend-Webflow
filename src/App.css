@@ -1,0 +1,16 @@
+.scrollbar-hidden {
+  scrollbar-width: none; /* For Firefox */
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Edge */
+}
+
+#socials > li:nth-child(2) {
+  background-color: #a8ff35;
+}
+
+#plans > div:nth-child(2) button {
+  background-color: black;
+  color: white;
+}

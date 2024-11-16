@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Effra";
+  src: url("./assets/fonts/Effra_Std_Lt.ttf") format("truetype");
+  font-weight: 300; /* light weight */
+  font-style: normal; /* Normal style */
+}
+@font-face {
+  font-family: "Effra";
+  src: url("./assets/fonts/Effra_Std_Rg.ttf") format("truetype");
+  font-weight: 400; /* Normal weight */
+  font-style: normal; /* Normal style */
+}
+@font-face {
+  font-family: "Effra";
+  src: url("./assets/fonts/Effra_Std_It.ttf") format("truetype");
+  font-weight: 400; /* weight */
+  font-style: italic; /* style */
+}
+@font-face {
+  font-family: "Effra";
+  src: url("./assets/fonts/Effra_Std_Md.ttf") format("truetype");
+  font-weight: 500; /* medium weight */
+  font-style: normal; /* Normal style */
+}
+
+@font-face {
+  font-family: "Effra";
+  src: url("./assets/fonts/Effra_Std_He.ttf") format("truetype");
+  font-weight: 600; /* Normal weight */
+  font-style: normal; /* Normal style */
+}
+@font-face {
+  font-family: "Effra";
+  src: url("./assets/fonts/Effra_Std_Bd.ttf") format("truetype");
+  font-weight: 700; /* Normal weight */
+  font-style: normal; /* Normal style */
+}
+@font-face {
+  font-family: "GoodDog New";
+  src: url("./assets/fonts/gooddognew.ttf") format("truetype");
+  font-weight: 400; /* Normal weight */
+  font-style: normal; /* Normal style */
+}
